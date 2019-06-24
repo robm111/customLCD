@@ -1,0 +1,9 @@
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\bin\Debug\customLCD.exe
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\bin\Debug\customLCD.pdb
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\bin\Debug\customLCD.xml
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\customLCD.vbproj.GenerateResource.Cache
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\customLCD.exe
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\customLCD.xml
+C:\Users\Rob\Documents\Visual Studio 2010\Projects\customLCD\customLCD\obj\x86\Debug\customLCD.pdb
